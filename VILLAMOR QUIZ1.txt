@@ -1,0 +1,10 @@
+VILLAMOR, Shiela Mae
+BSCpE-4A
+Quiz#1-Final term
+
+
+How did the Rasp Pi work?
+
+- The charger that was used wasn't compatible with the version of rasp pi that we are using.
+The previous charger was for a B+ model while the appropriate charger is for a B model.
+The model B uses between 1000 mA depending on what peripherals are connected. To test its functionality, we connected it to the right & compatible charger.

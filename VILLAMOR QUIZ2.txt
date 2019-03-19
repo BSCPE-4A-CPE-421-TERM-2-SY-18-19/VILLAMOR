@@ -1,0 +1,17 @@
+VILLAMOR, Shiela Mae
+BSCpE-4A
+Quiz#2-Final term
+
+*PC Problems
+-PC won't boot to BIOS
+
+*Possible causes:
+-Faulty RAM (or something wrong related to RAM)
+->try transferring to another slot or replace it
+
+-Faulty PCI cards
+-Misplaced front panel connections
+-Missing power supply cables
+->check teh 24-pin ATX cable & the 4 pin or 8pin
+-The CPU is dead
+-PSU not working properly
